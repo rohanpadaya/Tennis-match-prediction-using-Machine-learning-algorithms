@@ -48,7 +48,7 @@ The dataset was obtained from [Tennis Data](http://www.tennis-data.co.uk/alldata
 
 ## Project Report
 
-For a detailed explanation of the methodology, data analysis, and results, please refer to the [Final Project Report](./Final_Tennis_report.pdf).
+For a detailed explanation of the methodology, data analysis, and results, please refer to the Final Project Report pdf uploaded in the repository.
 
 ## Contact
 
